@@ -1,5 +1,7 @@
 # Wrappers with some getters and setters  
 
+https://blog.4d.com/need-a-magic-wand-here-are-computed-class-properties/
+
 ## cs.Date
 
 ```4d
