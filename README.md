@@ -14,3 +14,15 @@ $date.year:=2021
 
 > [class documentation](Documentation/Classes/Date.md)
 
+## cs.File
+
+```4d
+$file:=cs.File.new("/path/to/a/file/or/folder")
+
+$name:=$file.fullName
+
+$file.name:="hello"
+$file.extension:="foo"
+
+$file.parent:=Folder(...)
+```
