@@ -21,6 +21,6 @@ $value:=$date.day
 
 ```4d
 $date.year:=2021
-$date.month:=04
+$date.month:=4
 $date.day:=18
 ```
